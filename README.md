@@ -7,13 +7,13 @@
 
 <h3>Prerequisites</h3>
 <ul>
-  <li>Ensure PHP, Composer, and a compatible database (e.g., MySQL) are installed.</li>
+  <li>Ensure PHP, Composer, and a compatible database (e.g., PostgreSQL) are installed.</li>
 </ul>
 
 <h3>Installation</h3>
 <ol>
   <li><strong>Clone the Repository</strong>
-    <pre><code>git clone &lt;repository-url&gt;</code></pre>
+    <pre><code>git clone https://github.com/kufle/task-manager-backend</code></pre>
   </li>
   <li><strong>Copy and Configure Environment File</strong>
     <ul>
